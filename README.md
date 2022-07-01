@@ -1,1 +1,1 @@
-# Sudoko_solving_algorithm
+# Sudoku_solving_algorithm
